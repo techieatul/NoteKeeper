@@ -1,3 +1,8 @@
+This application is a Note Keeper App to add notes and reminders.
+
+<img width="972" alt="Screen Shot 2021-10-27 at 11 43 02 PM" src="https://user-images.githubusercontent.com/79103545/139201319-b9ae3a6b-614e-4ead-a27c-c7e6ed5a69f0.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
